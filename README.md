@@ -7,10 +7,10 @@
 3. Sin embargo, está prohibido vender la fuente a terceros con fines comerciales..
 
 
-<h1>Hecho para Arrataos RP</h1>
+<h3>Hecho para Arrataos RP</h3>
 - Por: ! 👽V₳Ɽ₲Ʉł₮Ⱬ#6151 
 - Discord: https://invite.gg/arratapsrp
-<img src="https://github.com/Varguitz/vrp_jobcenter/blob/master/client/html/logo.png?raw=true"></img>
+<img src="https://streamable.com/bknvta"></img>
 
 <h3>Fix para vRP 0.5</h3>
 
