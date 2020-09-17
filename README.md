@@ -6,7 +6,6 @@
 ░╚████╔╝░██╔══██║██╔══██╗██║░░╚██╗██║░░░██║██║░░░██║░░░██╔══╝░░
 ░░╚██╔╝░░██║░░██║██║░░██║╚██████╔╝╚██████╔╝██║░░░██║░░░███████╗
 ░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░░╚═════╝░╚═╝░░░╚═╝░░░╚══════╝
-Made to vRPex by Varguitz#6151
 
 1. Cualquiera puede descargar el código fuente de forma gratuita y utilizarlo.
 
@@ -15,8 +14,10 @@ Made to vRPex by Varguitz#6151
 3. Sin embargo, está prohibido vender la fuente a terceros con fines comerciales..
 
 
-
-<img src="https://github.com/fivem-realw/vrp_rw_userlist/blob/master/screenshots/logo.png?raw=true"></img>
+<h1>Hecho para Arrataos RP</h1>
+-Por: ! 👽V₳Ɽ₲Ʉł₮Ⱬ#6151 
+- Discord: https://invite.gg/arratapsrp
+<img src="https://github.com/Varguitz/vrp_jobcenter/blob/master/client/html/logo.png?raw=true"></img>
 
 <h3>Fix para vRP 0.5</h3>
 
